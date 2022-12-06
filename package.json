@@ -1,0 +1,9 @@
+{
+  "name": "yarn-berry-monorepo-pratice2",
+  "packageManager": "yarn@3.3.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
